@@ -8,7 +8,7 @@ pkgtool 核心形式化与治理文档的存证仓库（certification / proof-of
 
 ## 作者与版权
 
-- 作者：Yu Yiming（余一鳴）
+- 作者：Yu Yiming
 - 联系邮箱：yu3174096586@gmail.com
 - GitHub：https://github.com/yuyimimimi
 - 版权：Copyright © 2026 Yu Yiming. All rights reserved.
